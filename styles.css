@@ -28,7 +28,7 @@ table, th, td {
     border: 1px dotted black;
     border-spacing: 1pt;
 }
-@media screen and (min-width: 500px)
+@media screen and (min-width: 1000px)
 /* Desktop */
 
 {
@@ -46,7 +46,7 @@ table, th, td {
     }
 }
 
-@media screen and (max-width: 500px)
+@media screen and (max-width: 850px)
 /* Tablet */
 
 {
@@ -66,7 +66,7 @@ table, th, td {
     }
 }
 
-@media screen and (max-width: 320px)
+@media screen and (max-width: 750px)
 /* mobile */
 
 {
@@ -85,7 +85,6 @@ table, th, td {
         padding: 3px 1px
        
     }
-     overflow:hidden;
 }
 
             .res {background-color:rgba(3, 251, 247, 0.77); color: black; font-weight: bold; font-style: italic; font-size: xx-large; text-decoration: none; text-align: center;}
