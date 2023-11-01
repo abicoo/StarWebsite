@@ -57,11 +57,11 @@ table, th, td {
         border-collapse: separate;
     }
     th {
-        font-size: 20px;
+        font-size: 30px;
         padding: 4px 1px
     }
     td {
-        font-size: 10px;
+        font-size: 15px;
         padding: 4px 1px
     }
 }
@@ -77,11 +77,11 @@ table, th, td {
         border-collapse: separate;
     }
     th {
-        font-size: 15px;
+        font-size: 20px;
         padding: 3px 1px
     }
     td {
-        font-size: 8px;
+        font-size: 10px;
         padding: 3px 1px
        
     }
