@@ -28,7 +28,7 @@ table, th, td {
     border: 1px dotted black;
     border-spacing: 1pt;
 }
-@media screen and (min-width: 1000px)
+@media screen and (min-width: 851px)
 /* Desktop */
 
 {
@@ -51,7 +51,7 @@ table, th, td {
 
 {
     table {
-        max-width: 100%;
+        max-width: fit-content;
         min-width: 60%;
         text-align: center;
         border-collapse: separate;
@@ -61,7 +61,7 @@ table, th, td {
         padding: 4px 1px
     }
     td {
-        font-size: 3px;
+        font-size: 3;
         padding: 4px 1px
     }
 }
@@ -71,7 +71,7 @@ table, th, td {
 
 {
     table {
-        max-width: 100%;
+        max-width: fit-content;
         min-width: 60%;
         text-align: center;
         border-collapse: separate;
@@ -81,7 +81,7 @@ table, th, td {
         padding: 3px 1px
     }
     td {
-        font-size: 2px;
+        font-size: 2;
         padding: 3px 1px
        
     }
