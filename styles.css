@@ -11,6 +11,19 @@
     padding-top: 10px;
     padding-bottom: 10px
 }
+.r {
+    color: red;
+}
+tbody td {
+    padding: 5px 0;
+    font-family: "Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+table, th, td {
+    border: 1px solid #03a9f4a8;
+}
+table, th, td {
+    border: 1px solid #03a9f4a8;
+}
 @media screen and (min-width: 500px)
 /* Desktop */
 
