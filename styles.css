@@ -47,7 +47,7 @@ table, th, td {
 
 {
     table {
-        max-width: 110%;
+        max-width: 100%;
         min-width: 60%;
         text-align: center;
         border-collapse: separate;
