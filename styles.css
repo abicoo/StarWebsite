@@ -1,12 +1,6 @@
 *{
     box-sizing: border-box ;
 }
-html, body {
-     overflow-x: hidden;
-}
-body {
-    position: relative;
-}
 
 .RECORD {
     background-color: #66CDAA;
@@ -27,6 +21,8 @@ body {
 tbody td {
     padding: 5px 2px;
     font-family: "Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    overflow: hidden;
+    position: relative;
 }
 table, th, td {
     border: 1px dotted black;
