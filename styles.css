@@ -7,7 +7,7 @@
     color: black;
     font-weight: 700;
     font-style: Lucida;
-    font-size: medium;
+    font-size: large;
     border-width: 5px;
     border-color: #7FFFD4;
     border-style: groove;
@@ -52,7 +52,7 @@ table, th, td {
 {
     table {
         max-width: fit-content;
-        min-width: 60%;
+        min-width: 100%;
         text-align: center;
         border-collapse: separate;
     }
@@ -61,7 +61,7 @@ table, th, td {
         padding: 4px 1px
     }
     td {
-        font-size: 3;
+        font-size: 3px;
         padding: 4px 1px
     }
 }
@@ -72,7 +72,7 @@ table, th, td {
 {
     table {
         max-width: fit-content;
-        min-width: 60%;
+        min-width: 100%;
         text-align: center;
         border-collapse: separate;
     }
@@ -81,7 +81,7 @@ table, th, td {
         padding: 3px 1px
     }
     td {
-        font-size: 2;
+        font-size: 2px;
         padding: 3px 1px
        
     }
