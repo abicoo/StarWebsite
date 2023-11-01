@@ -14,16 +14,14 @@
 .r {
     color: red;
 }
-/*tbody td {
-    padding: 5px 0;
+tbody td {
+    padding: 5px 2px;
     font-family: "Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 }
 table, th, td {
-    border: 1px solid #03a9f4a8;
+    border: 1px dotted black;
+    border-spacing: 1pt;
 }
-table, th, td {
-    border: 1px solid #03a9f4a8;
-}*/
 @media screen and (min-width: 500px)
 /* Desktop */
 
