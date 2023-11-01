@@ -79,7 +79,9 @@ table, th, td {
     td {
         font-size: 2;
         padding: 3px 1px
+       
     }
+     overflow:hidden;
 }
 
             .res {background-color:rgba(3, 251, 247, 0.77); color: black; font-weight: bold; font-style: italic; font-size: xx-large; text-decoration: none; text-align: center;}
