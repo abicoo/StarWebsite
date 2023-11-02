@@ -33,6 +33,8 @@ table, th, td {
 
 {
     table {
+        max-width: fit-content;
+        min-width: 100%;
         text-align: center;
         border-collapse: separate;
     }
